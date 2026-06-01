@@ -1,10 +1,11 @@
 # tocpp
-Jayess to C++, npx tocpp [arguments]
+
+Jayess to C++, npx tocpp@latest [arguments]
 
 ## Usage
 
 ```sh
-npx tocpp <entry-file> [output-dir]
+npx tocpp@latest <entry-file> [output-dir]
 ```
 
 Options:

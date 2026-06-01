@@ -1,6 +1,6 @@
 {
   "name": "tocpp",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Jayess to C++, npx tocpp [arguments]",
   "keywords": [
     "cpp"
