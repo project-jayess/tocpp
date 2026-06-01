@@ -1,0 +1,33 @@
+{
+  "name": "tocpp",
+  "version": "0.0.2",
+  "description": "Jayess to C++, npx tocpp [arguments]",
+  "keywords": [
+    "cpp"
+  ],
+  "homepage": "https://github.com/project-jayess/tocpp#readme",
+  "bugs": {
+    "url": "https://github.com/project-jayess/tocpp/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/project-jayess/tocpp.git"
+  },
+  "license": "MIT",
+  "author": "Victor Chanil Park",
+  "type": "module",
+  "bin": {
+    "tocpp": "./cli.js"
+  },
+  "files": [
+    "cli.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node --test test/*.test.js"
+  },
+  "dependencies": {
+    "jayesstocpp": "latest"
+  }
+}
